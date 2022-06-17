@@ -13,7 +13,7 @@ import java.util.List;
  * AbstractDAO.java
  * This DAO class provides CRUD database operations for the table book
  * in the database.
- * @author www.codejava.net
+ * @author Antonio Rodrigues, Vitor Hugo
  *
  */
 public class BookDAO {
